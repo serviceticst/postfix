@@ -1,7 +1,19 @@
-# Por Felipe Pimentel
-# Service TIC Soluções Tecnologicas
-# www.servicetic.com.br
-# 02 de Junho de 2021
+#!/bin/bash
+#------------------------------------------------
+#   INSTALACAO AUTOMATIZADA GRAFANA NO ORACLE LINUX 8
+#------------------------------------------------
+#
+#  Desenvolvido por: Service TIC Solucoes Tecnologicas
+#            E-mail: contato@servicetic.com.br
+#              Site: www.servicetic.com.br
+#          Linkedin: https://www.linkedin.com/company/serviceticst
+#          Intagram: https://www.instagram.com/serviceticst
+#          Facebook: https://www.facebook.com/serviceticst
+#           Twitter: https://twitter.com/serviceticst
+#           YouTube: https://youtube.com/c/serviceticst
+#
+#-------------------------------------------------
+#
 echo "#-----------------------------------------#"
 echo    "INFORMAÇÕES SOBRE A CONTA DE E-MAIL"
 echo "#-----------------------------------------#"
