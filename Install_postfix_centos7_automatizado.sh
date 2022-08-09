@@ -1,6 +1,6 @@
 #!/bin/bash
 #------------------------------------------------
-#   INSTALACAO AUTOMATIZADA GRAFANA NO ORACLE LINUX 8
+#   INSTALACAO AUTOMATIZADA POSTFIX NO ORACLE LINUX 8
 #------------------------------------------------
 #
 #  Desenvolvido por: Service TIC Solucoes Tecnologicas
