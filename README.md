@@ -5,7 +5,7 @@
 
 
 ### 📋 Lista de Scripts
-- 📥 [Instalação automatizada do Postfix no CentOS 7](https://github.com/serviceticst/Postfix/releases/tag/1.0.0)
+- 📥 [Instalação automatizada do Postfix no CentOS 7](https://github.com/serviceticst/postfix/releases/tag/1.0.0)
 
 ***
 
@@ -15,7 +15,7 @@
 
 ### 📋 Scripts List
 
-- 📥 [Automated Postfix Installation on CentOS 7](https://github.com/serviceticst/Postfix/releases/tag/1.0.0)
+- 📥 [Automated Postfix Installation on CentOS 7](https://github.com/serviceticst/postfix/releases/tag/1.0.0)
 
 ***
 ### Desenvolvido por: Service TIC Soluções Tecnológicas (Developed by: Service TIC Technological Solutions)
